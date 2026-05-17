@@ -1,0 +1,29 @@
+FEVER:
+Symptoms: high temperature above 38C, chills, sweating, headache, muscle aches
+Severity: Low if below 39C, High if above 40C
+Treatment: rest, fluids, paracetamol
+
+CHEST PAIN:
+Symptoms: pressure in chest, shortness of breath, pain in left arm
+Severity: Critical - possible heart attack
+Treatment: immediate emergency care
+
+DIABETES:
+Symptoms: frequent urination, excessive thirst, blurred vision, fatigue
+Severity: Medium to High
+Treatment: insulin, diet control, medication
+
+ASTHMA:
+Symptoms: wheezing, shortness of breath, chest tightness, coughing
+Severity: Medium to Critical
+Treatment: inhaler, avoid triggers, bronchodilators
+
+MIGRAINE:
+Symptoms: severe headache, nausea, sensitivity to light and sound
+Severity: Low to Medium
+Treatment: rest in dark room, pain medication, hydration
+
+PNEUMONIA:
+Symptoms: cough with phlegm, fever, chills, difficulty breathing
+Severity: High
+Treatment: antibiotics, rest, hospitalization if severe
